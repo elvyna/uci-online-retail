@@ -1,0 +1,3 @@
+## ignore CSV and .ipynb_checkpoints
+*.csv
+.ipynb_checkpoints/*
