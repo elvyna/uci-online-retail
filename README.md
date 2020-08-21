@@ -1,3 +1,3 @@
-## READ ME
+## README
 
-This repository contains analysis using Online Retail II UCI datasets, which are available for free on [Kaggle](https://www.kaggle.com/mashlyn/online-retail-ii-uci).
+This repository contains analysis using Online Retail II UCI dataset, which is available for free on [Kaggle](https://www.kaggle.com/mashlyn/online-retail-ii-uci).
