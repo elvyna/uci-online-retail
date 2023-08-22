@@ -1,0 +1,8 @@
+pandas>=1.3
+numpy>=1.21.2
+seaborn==0.11.2
+fastparquet==0.8.1
+scikit-learn
+# fbprophet
+tslearn
+tqdm
